@@ -1,0 +1,9 @@
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.csprojAssemblyReference.cache
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.BackgroundWorker.resources
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\truon\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\truon\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\truon\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\truon\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
